@@ -1,0 +1,10 @@
+languageCode = "en-us"
+title = "Infusion"
+baseURL = "https://thepaciellogroup.github.io/infusion/"
+canonifyURLs = true
+theme = "infusion"
+publishDir = "docs"
+
+[params]
+  description = "Documentation for the **Infusion** documentation builder, built with **Infusion** itself."
+  codePenUser = "Heydon"
